@@ -1,2 +1,2 @@
-# idea-by-yax
-Will coming soon
+Body{ color:blue;
+}
